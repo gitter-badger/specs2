@@ -3,6 +3,8 @@
 Installation instructions
 =========================
 
+[![Join the chat at https://gitter.im/cfreeman/specs2](https://badges.gitter.im/cfreeman/specs2.svg)](https://gitter.im/cfreeman/specs2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 You need to download and install sbt (simple build tool)
 Then execute the following command:
 
